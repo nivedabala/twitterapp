@@ -24,4 +24,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="https://github.com/nivedabala/flixapp/blob/main/twitterpart1demo.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/nivedabala/twitterapp/blob/main/twitterpart1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
